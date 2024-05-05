@@ -1,0 +1,14 @@
+.input-container button{
+   transform: translate(850px, 20%);
+   background-color: #ffffff;
+   color: rgb(0, 0, 0);
+   border: none;
+   border-radius: 50px;
+   padding-bottom: 10px 20px;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+.input-container button:hover {
+   background-color: #000000;
+   color: white; 
+}
